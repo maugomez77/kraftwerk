@@ -2,7 +2,7 @@
 
 ## Exploratory Data Analysis
 
-Details [Notebook](./prompt.ipynb)
+Details [Notebook](./Mauricio_prompt.ipynb)
 
 ## 1. Summary
 
