@@ -1,6 +1,6 @@
-## Will the Customer Accept the Coupon?
+## Practical Application Assignment 5.1
 
-### Data Clean Up and Analysis for Real Scenario Practice 1 
+### Will the Customer Accept the Coupon?
 
 In this exercise, we analyze data/coupons.csv (from the UCI Machine Learning repository) which contains data collected from a survey
 on Amazon's Mechanical Turk.  
