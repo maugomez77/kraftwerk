@@ -48,7 +48,7 @@ Details [Notebook](./Mauricio_prompt.ipynb)
 
 - Bars is also very common for people that is younger than 30 years old and also do not have kids, which in reality seems to be a valid case
 
-#### Independent Investigation
+### Independent Investigation
 
 - Customer accepted coffee house coupons in the morning at 10AM and also in the afternoon at 2PM.
 
