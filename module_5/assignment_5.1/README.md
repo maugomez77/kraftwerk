@@ -14,7 +14,7 @@ and answers “no, I do not want the coupon” are labeled as “Y = 0”.
 There are five different types of coupons—less expensive restaurants (under $20), coffee houses, carry out and take away, bars,
 and more expensive restaurants ($20–$50).
 
-Details [Notebook](./Mauricio_prompt.ipynb)
+### Details [Prompt Notebook](./Mauricio_prompt.ipynb)
 
 ### Summary of Exploratory Analysis 
 
