@@ -46,12 +46,11 @@ The dataset contains the following attributes:
     16. paint_color   : color of the car
     17. state         : state where the car is being sold
 
-More detail from the Exploratory Data Analysis, Data Preparation, Model Building and Evaluation is found here: Details [Notebook](./mauricio_prompt_II.ipynb)
+More detail from the Exploratory Data Analysis, Data Preparation, Model Building and Evaluation is found here: 
 
+- Details [Notebook](./mauricio_prompt_II.ipynb)
 
 ## Findings
-
-## Key Findings
 
 1. **Age of the Car**: This feature is significant to define the price. The older the car is, the less it's worth.
 
@@ -77,9 +76,9 @@ By understanding these factors, you can make strategic decisions in selecting an
 
 This analysis is just the starting point, and it concentrates on the relationship between car descriptions and their prices. 
 
-Given more comprehensive data or a larger dataset, we could enhance both the precision and utility of our model. It might also be beneficial to extend the analysis to include other business aspects like sales conditions and customer information, along other features along the way.
+Given more comprehensive data or a larger dataset, we could enhance both the precision and utility of our model. 
 
-Our model could benefit from an enhanced data preparation phase. This could involve pulling more detailed information from the Vehicle Identification Number (VIN), which might allow us to more accurately determine factors such as the number of cylinders, vehicle size, fuel type, and transmission type. Additionally, securing information about the original price of the car could be helpful in assessing its depreciation rate.
+It might also be beneficial to extend the analysis to include other business aspects like sales conditions and customer information, along other features along the way. This could involve pulling more detailed information from the Vehicle Identification Number (VIN), which might allow us to more accurately determine factors such as the number of cylinders, vehicle size, fuel type, and transmission type. Additionally, securing information about the original price of the car could be helpful in assessing its depreciation rate.
 
 Increasing the amount of data fed into the model could lead to longer training times but also potentially improve its performance. This might involve incorporating previously discarded features like the car model and region, utilizing a larger dataset, or integrating data from other sources such as the Kelly Blue Book.
 
