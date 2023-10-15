@@ -8,3 +8,4 @@
 
 #### [Assignment 11.1 - What Drives the Price of a Car?](https://github.com/maugomez77/kraftwerk/blob/main/module_11/practical_application_II_starter/README.md) 
 
+#### [Assignment 17.1 - Practical Application Assignment -- Comparing Performance Of Classifiers](https://github.com/maugomez77/kraftwerk/blob/main/module_17/Readme.md) 
