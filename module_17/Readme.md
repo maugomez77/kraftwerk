@@ -10,7 +10,7 @@ The dataset, which was already cleaned at its source, is primarily focused on ph
 
 Key observations on the dataset:
 
-- The dataset is devoid of missing values.
+- The dataset does not have missing values.
 
 ## Business Objective
 
