@@ -1,4 +1,4 @@
-### IIdentify Factors That Influence Corruption With The Use Of Machine Learning
+### Identify Factors That Influence Corruption With The Use Of Machine Learning
 
 #### Initial Report
 
@@ -60,7 +60,7 @@ The technical details on [Notebook](notebook_capstone_1.ipynb) covers:
 - Models will be assessed based on relevant metrics such as R-squared, Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE). 
 - Cross-validation techniques will be used to ensure model robustness and avoid overfitting.
 
-![Models Performance](images/performance_vs_time.png)
+![Models Performance](images/performance_vs_time_training.png)
 
 #### Conclusions
 
