@@ -10,4 +10,4 @@
 
 #### [Assignment 17.1 - Practical Application Assignment -- Comparing Performance Of Classifiers](https://github.com/maugomez77/kraftwerk/blob/main/module_17/Readme.md) 
 
-#### [Assignment 20.1 - Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)](https://github.com/maugomez77/kraftwerk/blob/main/module_20/Readme.md) 
+#### [Assignment 20.1 - Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)](https://github.com/maugomez77/kraftwerk/blob/main/module_20/README.md) 
