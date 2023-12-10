@@ -1,4 +1,4 @@
-# # Identify Factors That Influence Corruption With The Use Of Machine Learning
+## Identify Factors That Influence Corruption With The Use Of Machine Learning
 
 ## Initial Report and EDA
 
